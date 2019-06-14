@@ -1,0 +1,17 @@
+<?php
+// panggil fungsi validasi xss dan injection
+require_once('fungsi_validasi.php');
+
+// definisikan koneksi ke database
+$server = "localhost";
+$username = "k9712534_gpucard";
+$password = "*LDmZ[.JwrLO";
+$database = "k9712534_gcard";
+
+// Koneksi dan memilih database di server
+mysql_connect($server,$username,$password) or die("Koneksi gagal");
+mysql_select_db($database) or die("Database tidak bisa dibuka");
+mysql_set_charset('utf8');
+// buat variabel untuk validasi dari file fungsi_validasi.php
+$val = new Lokovalidasi;
+?>

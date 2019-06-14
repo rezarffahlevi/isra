@@ -1,0 +1,9 @@
+<?php
+	session_start();
+	ob_start();
+		$koneksi = mysql_connect("localhost:3306","k3724727_m2ktr","k4t4ru1234Aa");
+		$sukses = mysql_select_db("k3724727_kataru2", $koneksi);
+		if (!$sukses){
+			echo "koneksi ke database gagal !";
+		}
+?>

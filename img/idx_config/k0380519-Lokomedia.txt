@@ -1,0 +1,10 @@
+<?
+$server = "localhost";
+$username = "k0380519_ayu";
+$password = "ayusoltechc8";
+$database = "k0380519_albumkenangan";
+
+// Koneksi dan memilih database di server
+mysql_connect($server,$username,$password) or die("Connection Failed");
+mysql_select_db($database) or die("Can't open the Database");
+?>

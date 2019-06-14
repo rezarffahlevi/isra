@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+ReWriteRule ^home$ /isra/index.php 
+Options All -Indexes
+
+
+</IfModule>

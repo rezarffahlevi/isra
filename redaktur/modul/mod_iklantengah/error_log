@@ -1,0 +1,16 @@
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 393
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): '../../../foto_iklantengah/9101394242593_20140822024110.jpg' is not a valid JPEG file in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 393
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 401
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 402
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  Division by zero in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 411
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 414
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 415
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 425
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  Division by zero in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 438
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 441
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 442
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 452
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 461
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 462
+[05-Aug-2016 15:48:01 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 463
+[05-Aug-2016 15:49:27 Asia/Jakarta] PHP Warning:  unlink(../../../foto_iklantengah/small_9101394242593_20140822024110.jpg): No such file or directory in /home/k0945350/public_html/id/redaktur/modul/mod_iklantengah/aksi_iklantengah.php on line 24

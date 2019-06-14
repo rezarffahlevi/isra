@@ -1,0 +1,15 @@
+<?php
+
+define('__PS_BASE_URI__', '/');
+define('_THEME_NAME_', 'favourie');
+define('_DB_NAME_', 'k7586425_favourie');
+define('_DB_SERVER_', 'localhost');
+define('_DB_USER_', 'k7586425_favour');
+define('_DB_PREFIX_', 'ps_');
+define('_DB_PASSWD_', 'weddingaksesoris12345');
+define('_DB_TYPE_', 'MySQL');
+define('_COOKIE_KEY_', 'wLygBb29kOz4VAN685I0VZjjFh6MPStu4uuW67172GoePaCDdO7fNB4d');
+define('_COOKIE_IV_', 'ohL2Cbc4');
+define('_PS_VERSION_', '1.3.3.0');
+
+?>

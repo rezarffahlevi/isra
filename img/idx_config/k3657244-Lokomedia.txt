@@ -1,0 +1,19 @@
+<?php
+//Konfigurasi database
+$dbServer	= "localhost";
+$dbUser		= "k3657244_wphatta";
+$dbPass		= "n#,_XB.tfT!7";
+$dbName		= "k3657244_wpubh";
+$URL		= "http://wawasanproklamator.com";
+$sitename	= "Wawasan Proklamator";
+$slogan		= "Berpikir Merdeka,Berorientasi Kerakyatan";
+$lebar_foto	= "645";
+
+$DESKRIPSI	= "Wawasan Proklamator - Website Resmi Unit kegiatan Mahasiswa Universitas Bung Hatta Padang | Berpikir Merdeka,Berorientasi Kerakyatan";
+$KEYWORD	= "berita,info,seputar,kampus,bung hatta, hatta, ubh, wawasan, proklamator, artikel,opini,feature,sosok,sastra,pernik";
+//akhir konfigurasi
+
+@mysql_connect($dbServer, $dbUser, $dbPass) or die("<div class=\"err\">Tidak bisa terhubung ke mySQL <br><b>error:</b> " . mysql_error() . "</div>");
+@mysql_select_db($dbName) or die("<div class=\"err\">Tidak bisa memilih database <b>$dbName</b><br><b>error:</b> " . mysql_error() ."</div>");
+
+?>

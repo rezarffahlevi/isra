@@ -1,0 +1,13 @@
+<?php
+
+$dbms            = 'mysql'       ;
+$dbhost          = 'localhost' ;
+$dbport          = ''            ;
+$dbname          = 'k7274556_phpb1'   ;
+$dbuser          = 'k7274556_phpb1' ;
+$dbpasswd        = 'VRv8ktFB48Qz' ;
+$table_prefix    = 'phpbb_'      ;
+$acm_type        = 'file'        ;
+$load_extensions = ''            ;
+
+@ define ( 'PHPBB_INSTALLED' , true ) ;

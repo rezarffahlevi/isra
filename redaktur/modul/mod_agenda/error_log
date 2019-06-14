@@ -1,0 +1,2 @@
+[16-Jun-2016 13:14:00 Asia/Jakarta] PHP Warning:  unlink(../../../foto_agenda/85235BambuNusantara2016.jpg): No such file or directory in /home/k0945350/public_html/id/redaktur/modul/mod_agenda/aksi_agenda.php on line 23
+[16-Jun-2016 13:14:00 Asia/Jakarta] PHP Warning:  unlink(../../../foto_agenda/small_85235BambuNusantara2016.jpg): No such file or directory in /home/k0945350/public_html/id/redaktur/modul/mod_agenda/aksi_agenda.php on line 24

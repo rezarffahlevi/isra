@@ -1,0 +1,15 @@
+<?php
+
+define('__PS_BASE_URI__', '/');
+define('_THEME_NAME_', '17rose');
+define('_DB_NAME_', 'k4821178_melvashopdb');
+define('_DB_SERVER_', 'localhost');
+define('_DB_USER_', 'k4821178_root');
+define('_DB_PREFIX_', 'ps_');
+define('_DB_PASSWD_', 'qwerty9581');
+define('_DB_TYPE_', 'MySQL');
+define('_COOKIE_KEY_', 'hwF2WRmmDJBq0tExiTSBS2Qna2ocbQM0zqvfiNrpX5hfWQfcYZxhM13E');
+define('_COOKIE_IV_', '0rZQLnPf');
+define('_PS_VERSION_', '1.3.7.0');
+
+?>

@@ -1,0 +1,2 @@
+[05-Aug-2016 14:20:42 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 25200 bytes) in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 19
+[05-Aug-2016 14:45:47 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 25200 bytes) in /home/k0945350/public_html/id/config/fungsi_thumb.php on line 23

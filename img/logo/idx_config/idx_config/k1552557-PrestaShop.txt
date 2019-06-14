@@ -1,0 +1,15 @@
+<?php
+
+define('__PS_BASE_URI__', '/');
+define('_THEME_NAME_', 'quenny');
+define('_DB_NAME_', 'k1552557_sweety');
+define('_DB_SERVER_', 'localhost');
+define('_DB_USER_', 'k1552557_sweety');
+define('_DB_PREFIX_', 'ps_');
+define('_DB_PASSWD_', 'bonekalucu12345');
+define('_DB_TYPE_', 'MySQL');
+define('_COOKIE_KEY_', '39Dk0uWEJS9JpKMJddiTXuDsvsDdjxZhvkqch7rPm4TO7e1Mr5OGkhUX');
+define('_COOKIE_IV_', 's1OgVI9U');
+define('_PS_VERSION_', '1.3.6.0');
+
+?>

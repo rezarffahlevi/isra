@@ -1,0 +1,13 @@
+<?php
+$my['host'] = "localhost";
+$my['user'] = "k0658352_rezaku";
+$my['pass'] = "rezasatria";
+$my['dbs'] = "k0658352_ejapoljam";
+
+$koneksi=mysql_connect($my['host'],$my['user'],$my['pass']);
+if (! $koneksi){
+  echo "Gagal Koneksi..!".mysql_error();
+  }
+mysql_select_db($my['dbs'])
+or die ("Database Tidak Ada".mysql_error());
+?>

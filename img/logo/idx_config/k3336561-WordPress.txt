@@ -1,0 +1,89 @@
+<?php
+
+// BEGIN iThemes Security - Do not modify or remove this line
+// iThemes Security Config Details: 2
+define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settings > WordPress Tweaks > File Editor
+// END iThemes Security - Do not modify or remove this line
+
+/**
+ * Konfigurasi dasar WordPress.
+ *
+ * Berkas ini berisi konfigurasi-konfigurasi berikut: Pengaturan MySQL, Awalan Tabel,
+ * Kunci Rahasia, Bahasa WordPress, dan ABSPATH. Anda dapat menemukan informasi lebih
+ * lanjut dengan mengunjungi Halaman Codex {@link http://codex.wordpress.org/Editing_wp-config.php
+ * Menyunting wp-config.php}. Anda dapat memperoleh pengaturan MySQL dari web host Anda.
+ *
+ * Berkas ini digunakan oleh skrip penciptaan wp-config.php selama proses instalasi.
+ * Anda tidak perlu menggunakan situs web, Anda dapat langsung menyalin berkas ini ke
+ * "wp-config.php" dan mengisi nilai-nilainya.
+ *
+ * @package WordPress
+ */
+
+// ** Pengaturan MySQL - Anda dapat memperoleh informasi ini dari web host Anda ** //
+/** Nama basis data untuk WordPress */
+
+define( 'WP_MAX_MEMORY_LIMIT', '128M' );
+
+define('DB_NAME', 'k3336561_travelona');
+
+/** Nama pengguna basis data MySQL */
+define('DB_USER', 'k3336561_travell');
+
+/** Kata sandi basis data MySQL */
+define('DB_PASSWORD', 'z1VOgl01#xv%');
+
+/** Nama host MySQL */
+define('DB_HOST', 'localhost');
+
+/** Set Karakter Basis Data yang digunakan untuk menciptakan tabel basis data. */
+define('DB_CHARSET', 'utf8');
+
+/** Jenis Collate Basis Data. Jangan ubah ini jika ragu. */
+define('DB_COLLATE', '');
+
+/**#@+
+ * Kunci Otentifikasi Unik dan Garam.
+ *
+ * Ubah baris berikut menjadi frase unik!
+ * Anda dapat menciptakan frase-frase ini menggunakan {@link https://api.wordpress.org/secret-key/1.1/salt/ Layanan kunci-rahasia WordPress.org}
+ * Anda dapat mengubah baris-baris berikut kapanpun untuk mencabut validasi seluruh cookies. Hal ini akan memaksa seluruh pengguna untuk masuk log ulang.
+ *
+ * @since 2.6.0
+ */
+define('AUTH_KEY',         '# I*<RUxTL8^`V9W)-a<wiqXn,3f8iQn#FG^yOo?{u jR!hv+lqauJ Rt4SU*ut=');
+define('SECURE_AUTH_KEY',  '<f7[h{JwA^koNoJ)46+t?uo.i| >+}#zdwrU1)|0!5f*(N7>ogn]5xe?UR#7TT#n');
+define('LOGGED_IN_KEY',    'It!J4D=eW-Q>|FkJ+m=-UlEoLL#:UY(*GF_[d7z+.N0p_T+tGc{B^24[LwJ+zFIh');
+define('NONCE_KEY',        'wTRyTFg-@1e.L9Y&e!pID,3/A4Mkjam3*8S-~iDR|K/e;!XSAaROj,pVbi3<*V9F');
+define('AUTH_SALT',        '|=LPyu^|$NWH;b(XHBM)UwW|1$l$y-~iW!noj.om:xaviC?pybv,]9X0@>DQe45p');
+define('SECURE_AUTH_SALT', 'w~#]L>J}j6Tz4mjS@Bn!|IvR&$C-ePp%YHawbzL=}d`R9chOo%.;O{Ia8MOzEYv!');
+define('LOGGED_IN_SALT',   'Z%-h-|D%<UjKYr+~$|Wn4+ BnO]g.M-t5|3?_fr4EeAHC#r?KM58xWQ+quD{+P-^');
+define('NONCE_SALT',       '&PW(Pm>,XBz8^}-R;5I-g8J0<w@LZ#c-j,$O7Zq;QO~:Ohtf3!ORu+E6{?WK</za');
+
+/**#@-*/
+
+/**
+ * Awalan Tabel Basis Data WordPress.
+ *
+ * Anda dapat memiliki beberapa instalasi di dalam satu basis data jika Anda memberikan awalan unik
+ * kepada masing-masing tabel. Harap hanya masukkan angka, huruf, dan garis bawah!
+ */
+$table_prefix  = 'bkr_';
+
+/**
+ * Untuk pengembang: Moda pengawakutuan WordPress.
+ *
+ * Ubah ini menjadi "true" untuk mengaktifkan tampilan peringatan selama pengembangan.
+ * Sangat disarankan agar pengembang plugin dan tema menggunakan WP_DEBUG
+ * di lingkungan pengembangan mereka.
+ */
+define('WP_DEBUG', false);
+
+/* Cukup, berhenti menyunting! Selamat ngeblog. */
+
+/** Lokasi absolut direktori WordPress. */
+if ( !defined('ABSPATH') )
+	define('ABSPATH', dirname(__FILE__) . '/');
+
+/** Menentukan variabel-variabel WordPress berkas-berkas yang disertakan. */
+require_once(ABSPATH . 'wp-settings.php');

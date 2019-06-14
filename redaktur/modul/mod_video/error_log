@@ -1,0 +1,13 @@
+[16-Jun-2016 00:03:42 America/New_York] PHP Warning:  POST Content-Length of 2125346149 bytes exceeds the limit of 52428800 bytes in Unknown on line 0
+[16-Jun-2016 11:13:24 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 20
+[16-Jun-2016 11:13:24 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 21
+[16-Jun-2016 14:21:30 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 20
+[16-Jun-2016 14:21:30 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 21
+[16-Jun-2016 16:57:28 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/523559borobudur-temple.jpg): No such file or directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 20
+[16-Jun-2016 16:57:28 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_523559borobudur-temple.jpg): No such file or directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 21
+[16-Jun-2016 17:08:31 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/793426meja.jpg): No such file or directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 20
+[16-Jun-2016 17:08:31 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_793426meja.jpg): No such file or directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 21
+[17-Jun-2016 13:37:40 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 20
+[17-Jun-2016 13:37:40 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 21
+[17-Jun-2016 15:52:44 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/): Is a directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 20
+[17-Jun-2016 15:52:44 Asia/Jakarta] PHP Warning:  unlink(../../../img_video/kecil_): No such file or directory in /home/k0945350/public_html/id/redaktur/modul/mod_video/aksi_video.php on line 21

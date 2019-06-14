@@ -1,0 +1,32 @@
+<?php
+// HTTP
+define('HTTP_SERVER', 'http://chanbigshop.com/admin/');
+define('HTTP_CATALOG', 'http://chanbigshop.com/');
+define('HTTP_IMAGE', 'http://chanbigshop.com/image/');
+
+// HTTPS
+define('HTTPS_SERVER', 'http://chanbigshop.com/admin/');
+define('HTTPS_CATALOG', 'http://chanbigshop.com/');
+define('HTTPS_IMAGE', 'http://chanbigshop.com/image/');
+
+// DIR
+define('DIR_APPLICATION', '/home/k0390537/public_html/admin/');
+define('DIR_SYSTEM', '/home/k0390537/public_html/system/');
+define('DIR_DATABASE', '/home/k0390537/public_html/system/database/');
+define('DIR_LANGUAGE', '/home/k0390537/public_html/admin/language/');
+define('DIR_TEMPLATE', '/home/k0390537/public_html/admin/view/template/');
+define('DIR_CONFIG', '/home/k0390537/public_html/system/config/');
+define('DIR_IMAGE', '/home/k0390537/public_html/image/');
+define('DIR_CACHE', '/home/k0390537/public_html/system/cache/');
+define('DIR_DOWNLOAD', '/home/k0390537/public_html/download/');
+define('DIR_LOGS', '/home/k0390537/public_html/system/logs/');
+define('DIR_CATALOG', '/home/k0390537/public_html/catalog/');
+
+// DB
+define('DB_DRIVER', 'mysql');
+define('DB_HOSTNAME', 'localhost');
+define('DB_USERNAME', 'k0390537_openbig');
+define('DB_PASSWORD', 'kosongopen');
+define('DB_DATABASE', 'k0390537_openbig');
+define('DB_PREFIX', '');
+?>

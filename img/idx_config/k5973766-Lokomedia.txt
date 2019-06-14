@@ -1,0 +1,10 @@
+<?php
+$server = "localhost";
+$username = "k5973766_Us3r";
+$password = "fr3ncHfuUs3r";
+$database = "k5973766_frenchdb";
+
+// Koneksi dan memilih database di server
+mysql_connect($server,$username,$password) or die("Koneksi gagal");
+mysql_select_db($database) or die("Database tidak bisa dibuka");
+?>
